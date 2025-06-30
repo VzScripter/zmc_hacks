@@ -1,7 +1,7 @@
 # zmc_hacks
 Aqui são coisas simples que fiz pra facilitar minha vida na escola (estudo no Paraná, então se você estuda no mesmo estado que eu, isso pode te ajudar)
 
-# Redação Paraná `redacaoparana`:
+## Redação Paraná `redacaoparana`:
 
 ### Aqui estão todos os meus hacks relacionados a plataforma Redação Paraná
 
