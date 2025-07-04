@@ -9,7 +9,9 @@ Aqui são coisas simples que fiz pra facilitar minha vida na escola (estudo no P
 `replaceText.js` - Este script escreve seu texto, apenas gere um texto em uma IA (como o [Gemini](https://gemini.google.com/app?hl=pt-BR)) e cole o título, texto e execute). F12 > Console > Paste & Run
 
 Exemplos de Prompts:
+
 Gemini: "Gere um texto entre 220 e 280 palavras com uma linguagem formal, como se uma pessoa que tem entre 16 a 18 anos tivesse escrito, escreva um título não muito complexo (entre 3 a 7 palavras), não use girias mas também não use linguagem coloquial. As informações estão aqui:" (Cole todas as informações destacadas abaixo, incluindo o subtítulo)
+
 
 ![gemini](redacaoparana/gemini.png)
 
