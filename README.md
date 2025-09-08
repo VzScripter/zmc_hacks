@@ -6,7 +6,7 @@ Aqui são coisas simples que fiz pra facilitar minha vida na escola (estudo no P
 
 ### Aqui estão todos os meus hacks relacionados a plataforma Redação Paraná
 
-`replaceText.js` - Este script escreve seu texto, apenas gere um texto em uma IA (como o [Gemini](https://gemini.google.com/app?hl=pt-BR)) e cole o título, texto e execute). F12 > Console > Paste & Run
+[`replaceText.js`](https://raw.githubusercontent.com/VzScripter/zmc_hacks/refs/heads/main/redacaoparana/replaceText.js) - Este script escreve seu texto, apenas gere um texto em uma IA (como o [Gemini](https://gemini.google.com/app?hl=pt-BR)) e cole o título, texto e execute). F12 > Console > Paste & Run
 
 Exemplos de Prompts:
 
