@@ -18,7 +18,7 @@ Etapas:
 5° Passo: Selecione a duração que deseja e inicie o "Web Android".
 
 
-###Pronto, agora você pode utilizar um android pelo computador, também temos links e arquivos para o [rápido acesso e download](https://github.com/vzScripter/zmc_hacks/tree/main/webAndroid) caso deseja.
+### Pronto, agora você pode utilizar um android pelo computador, também temos links e arquivos para o [rápido acesso e download](https://github.com/vzScripter/zmc_hacks/tree/main/webAndroid) caso deseja.
 
 ## [Redação Paraná](https://redacao.pr.gov.br) `[redacaoparana]`:
 
