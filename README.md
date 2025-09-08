@@ -8,10 +8,15 @@ Aqui são coisas simples que fiz pra facilitar minha vida na escola (estudo no P
 Etapas:
 
 1° Passo: Entre no [Samsung Remote Test Lab](https://developer.samsung.com/remotetestlab/devices), clique em "Sign In" e crie uma conta utilizando um email (emails @escola.pr.gov.br não são autorizados).
+
 2° Passo: Caso não seja redirecionado, volte para o [Samsung Remote Test Lab](https://developer.samsung.com/remotetestlab/devices), deixe o mouse em cima da opção "x Credits" na parte superior esquerda e clique em "Get Free Credits".
+
 3° Passo: Em "Device List" (na esquerda da página), selecione a linha de modelos que você deseja (recomendo que utilize a linha S).
+
 4° Passo: Selecione apenas o servidor "EUA" para ter uma baixa latência e selecione o modelo de celular que deseja.
+
 5° Passo: Selecione a duração que deseja e inicie o "Web Android".
+
 
 Pronto, agora você pode utilizar um android pelo computador, também temos links e arquivos para o [rápido acesso e download](https://github.com/vzScripter/zmc_hacks/tree/main/webAndroid) caso deseja.
 
