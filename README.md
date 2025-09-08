@@ -21,6 +21,6 @@ Gemini: "Gere um texto entre 220 e 280 palavras com uma linguagem formal, como s
 
 ### Aqui estão todos os meus hacks relacionados a plataforma Khan Academy
 
-`khanware.js` - Este script executa um bypass no Khan Academy inteiro, tanto para questões (apenas responda as questões com "By Nix, Featured by Vz"), quanto de videos (Em testes, apenas abra a questão com o video). F12 > Console > Paste & Run
+[`khanware.js`](https://raw.githubusercontent.com/VzScripter/zmc_hacks/refs/heads/main/khanacademy/khanware.js) - Este script executa um bypass no Khan Academy inteiro, tanto para questões (apenas responda as questões com "By Nix, Featured by Vz"), quanto de videos (Em testes, apenas abra a questão com o video). F12 > Console > Paste & Run
 
 [a Fork of [this repository](https://github.com/Niximkk/Khanware)]
