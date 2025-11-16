@@ -20,7 +20,11 @@ javascript:fetch('https://raw.githubusercontent.com/VzScripter/zmc_hacks/refs/he
 
 Exemplos de Prompts:
 
-Gemini: "Gere um texto entre 220 e 280 palavras com uma linguagem formal, como se uma pessoa que tem entre 16 a 18 anos tivesse escrito, escreva um título não muito complexo (entre 3 a 7 palavras), não use girias mas também não use linguagem coloquial. As informações estão aqui:" (Cole todas as informações destacadas abaixo, incluindo o subtítulo)
+Gemini:
+```
+Gere um texto entre 220 e 280 palavras com uma linguagem formal, como se uma pessoa que tem entre 16 a 18 anos tivesse escrito, escreva um título não muito complexo (entre 3 a 7 palavras), não use girias mas também não use linguagem coloquial. As informações estão aqui:"
+```
+Logo após isto, cole todas as informações destacadas abaixo, incluindo o subtítulo
 
 
 ![gemini](redacaoparana/gemini.png)
