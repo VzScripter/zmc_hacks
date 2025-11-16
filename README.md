@@ -5,7 +5,7 @@ Aqui são coisas simples que fiz pra facilitar minha vida na escola (estudo no P
 
 ### Aqui estão todos os meus hacks relacionados a plataforma Khan Academy
 
-[`khanware.js`](https://raw.githubusercontent.com/VzScripter/zmc_hacks/refs/heads/main/khanacademy/khanware.js) - Este script executa um bypass no Khan Academy inteiro, tanto para questões (apenas responda as questões com "By Nix, Featured by Vz"), quanto de videos (Em testes, apenas abra a questão com o video). F12 > Console > Paste & Run
+[`khanware.js`](https://raw.githubusercontent.com/VzScripter/zmc_hacks/refs/heads/main/khanacademy/khanware.js) - Este script responde automáticamente todas as questões e visualiza todos os vídeos atráves de um bypass feito pelo [Nixim](https://github.com/Niximkk/)
 ```js
 javascript:fetch('https://raw.githubusercontent.com/VzScripter/zmc_hacks/refs/heads/main/khanacademy/khanware.js')
 ```
