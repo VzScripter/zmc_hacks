@@ -7,7 +7,7 @@ Aqui são coisas simples que fiz pra facilitar minha vida na escola (estudo no P
 
 [`autokhan.js`](https://raw.githubusercontent.com/VzScripter/zmc_hacks/refs/heads/main/khanacademy/autokhan.js) - Este script responde automáticamente todas as questões e visualiza todos os vídeos atráves de um bypass feito pelo [Nixim](https://github.com/Niximkk/)
 ```js
-javascript:fetch('https://raw.githubusercontent.com/VzScripter/zmc_hacks/refs/heads/main/khanacademy/autokhan.js')
+javascript:fetch('https://raw.githubusercontent.com/VzScripter/zmc_hacks/refs/heads/main/khanacademy/autokhan.js').then(t => t.text().then(t => eval(t)))
 ```
 
 [a Fork of [this repository](https://github.com/Niximkk/Khanware)]
